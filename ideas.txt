@@ -1,3 +1,7 @@
 Here is a file to commit to my repository
 
 I can now add a new line to this file
+
+
+
+This line conflicts with the local repository on my machine
